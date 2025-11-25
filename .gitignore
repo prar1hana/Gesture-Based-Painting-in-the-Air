@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS system files (anywhere, including inside Header)
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+env/
+.mp/
